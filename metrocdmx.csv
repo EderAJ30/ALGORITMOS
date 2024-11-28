@@ -1,0 +1,348 @@
+Origen,Destino,Peso,,,,,,,,,,,,,,,,,Linea
+Pantitlán,Zaragoza,9,,,,,,,,,,,,,,,,,1
+Zaragoza,Gomez Farías,7,,,,,,,,,,,,,,,,,1
+Gomez Farías,Boulevard Puerto Aéreo,7,,,,,,,,,,,,,,,,,1
+Boulevard Puerto Aéreo,Balbuena,2,,,,,,,,,,,,,,,,,1
+Balbuena,Moctezuma,10,,,,,,,,,,,,,,,,,1
+Moctezuma,San Lázaro,3,,,,,,,,,,,,,,,,,1
+San Lázaro,Candelaria,4,,,,,,,,,,,,,,,,,1
+Candelaria,Merced,3,,,,,,,,,,,,,,,,,1
+Merced,Pino Suárez,7,,,,,,,,,,,,,,,,,1
+Pino Suárez,Isabel La Católica,1,,,,,,,,,,,,,,,,,1
+Isabel La Católica,Salto del Agua,8,,,,,,,,,,,,,,,,,1
+Salto del Agua,Balderas,9,,,,,,,,,,,,,,,,,1
+Balderas,Cuauhtémoc,3,,,,,,,,,,,,,,,,,1
+Cuauhtémoc,Insurgentes,4,,,,,,,,,,,,,,,,,1
+Insurgentes,Sevilla,10,,,,,,,,,,,,,,,,,1
+Sevilla,Chapultepec,6,,,,,,,,,,,,,,,,,1
+Chapultepec,Juanacatlán,6,,,,,,,,,,,,,,,,,1
+Juanacatlán,Tacubaya,4,,,,,,,,,,,,,,,,,1
+Tacubaya,Observatorio,3,,,,,,,,,,,,,,,,,1
+Cuatro Caminos,Panteones,5,,,,,,,,,,,,,,,,,
+Panteones,Tacuba,9,,,,,,,,,,,,,,,,,
+Tacuba,Cuitláhuac,2,,,,,,,,,,,,,,,,,Linea
+Cuitláhuac,Popotla,1,,,,,,,,,,,,,,,,,2
+Popotla,Colegio Militar,3,,,,,,,,,,,,,,,,,2
+Colegio Militar,Normal,6,,,,,,,,,,,,,,,,,2
+Normal,San Cosme,6,,,,,,,,,,,,,,,,,2
+San Cosme,Revolución,2,,,,,,,,,,,,,,,,,2
+Revolución,Hidalgo,10,,,,,,,,,,,,,,,,,2
+Hidalgo,Bellas Artes,9,,,,,,,,,,,,,,,,,2
+Bellas Artes,Allende,4,,,,,,,,,,,,,,,,,2
+Allende,Zócalo/Tenochtitlan,5,,,,,,,,,,,,,,,,,2
+Zócalo/Tenochtitlan,Pino Suárez,6,,,,,,,,,,,,,,,,,2
+Pino Suárez,San Antonio Abad,6,,,,,,,,,,,,,,,,,2
+San Antonio Abad,Chabacano,3,,,,,,,,,,,,,,,,,2
+Chabacano,Viaducto,4,,,,,,,,,,,,,,,,,2
+Viaducto,Xola,3,,,,,,,,,,,,,,,,,2
+Xola,Villa de Cortés,6,,,,,,,,,,,,,,,,,2
+Villa de Cortés,Nativitas,2,,,,,,,,,,,,,,,,,2
+Nativitas,Portales,10,,,,,,,,,,,,,,,,,2
+Portales,Ermita,10,,,,,,,,,,,,,,,,,2
+Ermita,General Anaya,4,,,,,,,,,,,,,,,,,2
+General Anaya,Tasqueña,10,,,,,,,,,,,,,,,,,2
+Indios Verdes,Deportivo 18 de Marzo,1,,,,,,,,,,,,,,,,,2
+Deportivo 18 de Marzo,Potrero,1,,,,,,,,,,,,,,,,,2
+Potrero,La Raza,1,,,,,,,,,,,,,,,,,2
+La Raza,Tlatelolco,6,,,,,,,,,,,,,,,,,
+Tlatelolco,Guerrero,8,,,,,,,,,,,,,,,,,
+Guerrero,Hidalgo,10,,,,,,,,,,,,,,,,,Linea
+Hidalgo,Juárez,10,,,,,,,,,,,,,,,,,3
+Juárez,Balderas,5,,,,,,,,,,,,,,,,,3
+Balderas,Niños Héroes/Poder Judicial,1,,,,,,,,,,,,,,,,,3
+Niños Héroes/Poder Judicial ,Hospital General,9,,,,,,,,,,,,,,,,,3
+Hospital General,Centro Médico,3,,,,,,,,,,,,,,,,,3
+Centro Médico,Etiopía/Plaza de la T,1,,,,,,,,,,,,,,,,,3
+Etiopía/Plaza de la T,Eugenia,3,,,,,,,,,,,,,,,,,3
+Eugenia,División del Norte,1,,,,,,,,,,,,,,,,,3
+División del Norte,Zapata,2,,,,,,,,,,,,,,,,,3
+Zapata,Coyoacán,1,,,,,,,,,,,,,,,,,3
+Coyoacán,Viveros/Derechos Humanos,8,,,,,,,,,,,,,,,,,3
+Viveros/Derechos Humanos,Miguel Ángel de Quevedo,2,,,,,,,,,,,,,,,,,3
+Miguel Ángel de Quevedo,Copilco,1,,,,,,,,,,,,,,,,,3
+Copilco,Universidad,4,,,,,,,,,,,,,,,,,3
+Santa Anita,Jamaica,7,,,,,,,,,,,,,,,,,3
+Jamaica,Fray Servando,1,,,,,,,,,,,,,,,,,3
+Fray Servando,Candelaria,7,,,,,,,,,,,,,,,,,3
+Candelaria,Morelos,5,,,,,,,,,,,,,,,,,3
+Morelos,Canal del Norte,9,,,,,,,,,,,,,,,,,3
+Canal del Norte,Consulado,7,,,,,,,,,,,,,,,,,3
+Consulado,Bondojito,7,,,,,,,,,,,,,,,,,
+Bondojito,Talismán,9,,,,,,,,,,,,,,,,,
+Talismán,Martín Carrera,8,,,,,,,,,,,,,,,,,Linea
+Politécnico,Instituto del Petróleo,2,,,,,,,,,,,,,,,,,4
+Instituto del Petróleo,Autobuses del Norte,5,,,,,,,,,,,,,,,,,4
+Autobuses del Norte,La Raza,9,,,,,,,,,,,,,,,,,4
+La Raza,Misterios,2,,,,,,,,,,,,,,,,,4
+Misterios,Valle Gómez,9,,,,,,,,,,,,,,,,,4
+Valle Gómez,Consulado,1,,,,,,,,,,,,,,,,,4
+Consulado,Eduardo Molina,8,,,,,,,,,,,,,,,,,4
+Eduardo Molina,Aragón,6,,,,,,,,,,,,,,,,,4
+Aragón,Oceanía,10,,,,,,,,,,,,,,,,,4
+Oceanía,Terminal Aérea,1,,,,,,,,,,,,,,,,,
+Terminal Aérea,Hangares,5,,,,,,,,,,,,,,,,,
+Hangares,Pantitlán,7,,,,,,,,,,,,,,,,,Linea
+El Rosario,Tezozómoc,2,,,,,,,,,,,,,,,,,5
+Tezozómoc,UAM Azcapotzalco,9,,,,,,,,,,,,,,,,,5
+UAM Azcapotzalco,Ferrería/Arena ,1,,,,,,,,,,,,,,,,,5
+Ferrería/Arena ,Norte 45,1,,,,,,,,,,,,,,,,,5
+Norte 45,Vallejo,9,,,,,,,,,,,,,,,,,5
+Vallejo,Instituto del Petróleo,8,,,,,,,,,,,,,,,,,5
+Instituto del Petróleo,Lindavista,1,,,,,,,,,,,,,,,,,5
+Lindavista,Deportivo 18 de Marzo,9,,,,,,,,,,,,,,,,,5
+Deportivo 18 de Marzo,La Villa/Basílica,10,,,,,,,,,,,,,,,,,5
+La Villa/Basílica,Martín Carrera,5,,,,,,,,,,,,,,,,,5
+El Rosario,Aquiles Serdán,3,,,,,,,,,,,,,,,,,5
+Aquiles Serdán,Camarones,4,,,,,,,,,,,,,,,,,5
+Camarones,Refinería,7,,,,,,,,,,,,,,,,,
+Refinería,Tacuba,10,,,,,,,,,,,,,,,,,
+Tacuba,San Joaquín,5,,,,,,,,,,,,,,,,,Linea
+San Joaquín,Polanco,5,,,,,,,,,,,,,,,,,6
+Polanco,Auditorio,5,,,,,,,,,,,,,,,,,6
+Auditorio,Constituyentes,9,,,,,,,,,,,,,,,,,6
+Constituyentes,Tacubaya,3,,,,,,,,,,,,,,,,,6
+Tacubaya,San Pedro de Los Pinos,5,,,,,,,,,,,,,,,,,6
+San Pedro de Los Pinos,San Antonio,9,,,,,,,,,,,,,,,,,6
+San Antonio,Mixcoac,7,,,,,,,,,,,,,,,,,6
+Mixcoac,Barranca del Muerto,7,,,,,,,,,,,,,,,,,6
+Garibaldi/Lagunilla,Bellas Artes,8,,,,,,,,,,,,,,,,,6
+Bellas Artes,San Juan de Letrán,10,,,,,,,,,,,,,,,,,6
+San Juan de Letrán,Salto del Agua,9,,,,,,,,,,,,,,,,,
+Salto del Agua,Doctores,9,,,,,,,,,,,,,,,,,
+Doctores,Obrera,8,,,,,,,,,,,,,,,,,Linea
+Obrera,Chabacano,2,,,,,,,,,,,,,,,,,7
+Chabacano,La Viga,8,,,,,,,,,,,,,,,,,7
+La Viga,Santa Anita,2,,,,,,,,,,,,,,,,,7
+Santa Anita,Coyuya,5,,,,,,,,,,,,,,,,,7
+Coyuya,Iztacalco,3,,,,,,,,,,,,,,,,,7
+Iztacalco,Apatlaco,1,,,,,,,,,,,,,,,,,7
+Apatlaco,Aculco,7,,,,,,,,,,,,,,,,,7
+Aculco,Escuadrón 201,4,,,,,,,,,,,,,,,,,7
+Escuadrón 201,Atlalilco,6,,,,,,,,,,,,,,,,,7
+Atlalilco,Iztapalapa,6,,,,,,,,,,,,,,,,,7
+Iztapalapa,Cerro de la Estrella,10,,,,,,,,,,,,,,,,,7
+Cerro de la Estrella,UAM-I,6,,,,,,,,,,,,,,,,,7
+UAM-I,Constitución de 1917,1,,,,,,,,,,,,,,,,,7
+Pantitlán,Puebla,9,,,,,,,,,,,,,,,,,
+Puebla,Ciudad Deportiva,9,,,,,,,,,,,,,,,,,
+Ciudad Deportiva,Velódromo,9,,,,,,,,,,,,,,,,,Linea
+Velódromo,Mixhiuca,10,,,,,,,,,,,,,,,,,8
+Mixhiuca,Jamaica,5,,,,,,,,,,,,,,,,,8
+Jamaica,Chabacano,2,,,,,,,,,,,,,,,,,8
+Chabacano,Lázaro Cárdenas,6,,,,,,,,,,,,,,,,,8
+Lázaro Cárdenas,Centro Médico,4,,,,,,,,,,,,,,,,,8
+Centro Médico,Chilpancingo,6,,,,,,,,,,,,,,,,,8
+Chilpancingo,Patriotismo,7,,,,,,,,,,,,,,,,,8
+Patriotismo,Tacubaya,7,,,,,,,,,,,,,,,,,8
+Tláhuac,Tlaltenco,10,,,,,,,,,,,,,,,,,8
+Tlaltenco,Zapotitlán,5,,,,,,,,,,,,,,,,,8
+Zapotitlán,Nopalera,6,,,,,,,,,,,,,,,,,8
+Nopalera,Olivos,3,,,,,,,,,,,,,,,,,8
+Olivos,Tezonco,2,,,,,,,,,,,,,,,,,8
+Tezonco,Periferico Oriente,6,,,,,,,,,,,,,,,,,8
+Periferico Oriente,Calle 11,10,,,,,,,,,,,,,,,,,8
+Calle 11,Lomas Estrella,5,,,,,,,,,,,,,,,,,8
+Lomas Estrella,San Andres Tomatlán,5,,,,,,,,,,,,,,,,,8
+San Andres Tomatlán,Culhuacán,10,,,,,,,,,,,,,,,,,8
+Culhuacán,Atlalilco,2,,,,,,,,,,,,,,,,,
+Atlalilco,Mexicaltzingo,10,,,,,,,,,,,,,,,,,
+Mexicaltzingo,Ermita,7,,,,,,,,,,,,,,,,,Linea
+Ermita,Eje Central,6,,,,,,,,,,,,,,,,,9
+Eje Central,Parque de los Venados,4,,,,,,,,,,,,,,,,,9
+Parque de los Venados,Zapata,6,,,,,,,,,,,,,,,,,9
+Zapata,Hospital 20 de Noviembre,7,,,,,,,,,,,,,,,,,9
+Hospital 20 de Noviembre,Insurgentes Sur,4,,,,,,,,,,,,,,,,,9
+Insurgentes Sur,Mixcoac,9,,,,,,,,,,,,,,,,,9
+Pantitlán,Agrícola Oriental,5,,,,,,,,,,,,,,,,,9
+Agrícola Oriental,Canal de San Juan,1,,,,,,,,,,,,,,,,,9
+Canal de San Juan,Tepalcates,1,,,,,,,,,,,,,,,,,9
+Tepalcates,Guelatao,3,,,,,,,,,,,,,,,,,9
+Guelatao,Peñón Viejo,10,,,,,,,,,,,,,,,,,9
+Peñón Viejo,Acatitla,5,,,,,,,,,,,,,,,,,
+Acatitla,Santa Marta,5,,,,,,,,,,,,,,,,,
+Santa Marta,Los Reyes,10,,,,,,,,,,,,,,,,,Linea
+Los Reyes,La Paz,10,,,,,,,,,,,,,,,,,12
+Buenavista,Guerrero,1,,,,,,,,,,,,,,,,,12
+Guerrero,Garibaldi/Lagunilla,4,,,,,,,,,,,,,,,,,12
+Garibaldi/Lagunilla,Lagunilla,4,,,,,,,,,,,,,,,,,12
+Lagunilla,Tepito,9,,,,,,,,,,,,,,,,,12
+Tepito,Morelos,2,,,,,,,,,,,,,,,,,12
+Morelos,San Lázaro,2,,,,,,,,,,,,,,,,,12
+San Lázaro,Ricardo Flores Magón,9,,,,,,,,,,,,,,,,,12
+Ricardo Flores Magón,Romero Rubio,10,,,,,,,,,,,,,,,,,12
+Romero Rubio,Oceanía,2,,,,,,,,,,,,,,,,,12
+Oceanía,Deportivo Oceanía,9,,,,,,,,,,,,,,,,,12
+Deportivo Oceanía,Bosque de Aragón,1,,,,,,,,,,,,,,,,,12
+Bosque de Aragón,Villa de Aragón,5,,,,,,,,,,,,,,,,,12
+Villa de Aragón,Nezahualcóyotl,6,,,,,,,,,,,,,,,,,12
+Nezahualcóyotl,Impulsora,5,,,,,,,,,,,,,,,,,12
+Impulsora,Río de los Remedios,7,,,,,,,,,,,,,,,,,12
+Río de los Remedios,Múzquiz,5,,,,,,,,,,,,,,,,,12
+Múzquiz,Ecatepec,7,,,,,,,,,,,,,,,,,12
+Ecatepec,Olímpica,2,,,,,,,,,,,,,,,,,12
+Olímpica,Plaza Aragón,8,,,,,,,,,,,,,,,,,
+Plaza Aragón,Ciudad Azteca,4,,,,,,,,,,,,,,,,,
+Tasqueña,General Anaya,7,,,,,,,,,,,,,,,,,Linea
+General Anaya,Ermita,1,,,,,,,,,,,,,,,,,A
+Ermita,Portales,9,,,,,,,,,,,,,,,,,A
+Portales,Nativitas,3,,,,,,,,,,,,,,,,,A
+Nativitas,Villa de Cortés,2,,,,,,,,,,,,,,,,,A
+Villa de Cortés,Xola,9,,,,,,,,,,,,,,,,,A
+Xola,Viaducto,10,,,,,,,,,,,,,,,,,A
+Viaducto,Chabacano,1,,,,,,,,,,,,,,,,,A
+Chabacano,San Antonio Abad,2,,,,,,,,,,,,,,,,,A
+San Antonio Abad,Pino Suárez,2,,,,,,,,,,,,,,,,,A
+Pino Suárez,Zócalo/Tenochtitlan,7,,,,,,,,,,,,,,,,,
+Zócalo/Tenochtitlan,Allende,5,,,,,,,,,,,,,,,,,
+Allende,Bellas Artes,6,,,,,,,,,,,,,,,,,Linea
+Bellas Artes,Hidalgo,5,,,,,,,,,,,,,,,,,B
+Hidalgo,Revolución,4,,,,,,,,,,,,,,,,,B
+Revolución,San Cosme,7,,,,,,,,,,,,,,,,,B
+San Cosme,Normal,10,,,,,,,,,,,,,,,,,B
+Normal,Colegio Militar,7,,,,,,,,,,,,,,,,,B
+Colegio Militar,Popotla,6,,,,,,,,,,,,,,,,,B
+Popotla,Cuitláhuac,7,,,,,,,,,,,,,,,,,B
+Cuitláhuac,Tacuba,9,,,,,,,,,,,,,,,,,B
+Tacuba,Panteones,10,,,,,,,,,,,,,,,,,B
+Panteones,Cuatro Caminos,1,,,,,,,,,,,,,,,,,B
+Universidad,Copilco,2,,,,,,,,,,,,,,,,,B
+Copilco,Miguel Ángel de Quevedo,5,,,,,,,,,,,,,,,,,B
+Miguel Ángel de Quevedo,Viveros/Derechos Humanos,6,,,,,,,,,,,,,,,,,B
+Viveros/Derechos Humanos,Coyoacán,8,,,,,,,,,,,,,,,,,B
+Coyoacán,Zapata,10,,,,,,,,,,,,,,,,,B
+Zapata,División del Norte,5,,,,,,,,,,,,,,,,,B
+División del Norte,Eugenia,9,,,,,,,,,,,,,,,,,B
+Eugenia,Etiopía/Plaza de la T,3,,,,,,,,,,,,,,,,,B
+Etiopía/Plaza de la T,Centro Médico,9,,,,,,,,,,,,,,,,,B
+Centro Médico,Hospital General,1,,,,,,,,,,,,,,,,,B
+Hospital General,Niños Héroes/Poder Judicial,6,,,,,,,,,,,,,,,,,
+Niños Héroes/Poder Judicial,Balderas,4,,,,,,,,,,,,,,,,,
+Balderas,Juárez,6,,,,,,,,,,,,,,,,,
+Juárez,Hidalgo,6,,,,,,,,,,,,,,,,,
+Hidalgo,Guerrero,5,,,,,,,,,,,,,,,,,
+Guerrero,Tlatelolco,3,,,,,,,,,,,,,,,,,
+Tlatelolco,La Raza,9,,,,,,,,,,,,,,,,,
+La Raza,Potrero,2,,,,,,,,,,,,,,,,,
+Potrero,Deportivo 18 de Marzo,6,,,,,,,,,,,,,,,,,
+Deportivo 18 de Marzo,Indios Verdes,2,,,,,,,,,,,,,,,,,
+Martín Carrera,Talismán,8,,,,,,,,,,,,,,,,,
+Talismán,Bondojito,3,,,,,,,,,,,,,,,,,
+Bondojito,Consulado,10,,,,,,,,,,,,,,,,,
+Consulado,Canal del Norte,4,,,,,,,,,,,,,,,,,
+Canal del Norte,Morelos,10,,,,,,,,,,,,,,,,,
+Morelos,Candelaria,7,,,,,,,,,,,,,,,,,
+Candelaria,Fray Servando,5,,,,,,,,,,,,,,,,,
+Fray Servando,Jamaica,9,,,,,,,,,,,,,,,,,
+Jamaica,Santa Anita,4,,,,,,,,,,,,,,,,,
+Pantitlán,Hangares,5,,,,,,,,,,,,,,,,,
+Hangares,Terminal Aérea,5,,,,,,,,,,,,,,,,,
+Terminal Aérea,Oceanía,4,,,,,,,,,,,,,,,,,
+Oceanía,Aragón,2,,,,,,,,,,,,,,,,,
+Aragón,Eduardo Molina,9,,,,,,,,,,,,,,,,,
+Eduardo Molina,Consulado,8,,,,,,,,,,,,,,,,,
+Consulado,Valle Gómez,1,,,,,,,,,,,,,,,,,
+Valle Gómez,Misterios,2,,,,,,,,,,,,,,,,,
+Misterios,La Raza,8,,,,,,,,,,,,,,,,,
+La Raza,Autobuses del Norte,9,,,,,,,,,,,,,,,,,
+Autobuses del Norte,Instituto del Petróleo,10,,,,,,,,,,,,,,,,,
+Instituto del Petróleo,Politécnico,9,,,,,,,,,,,,,,,,,
+Martín Carrera,La Villa/Basílica,7,,,,,,,,,,,,,,,,,
+La Villa/Basílica,Deportivo 18 de Marzo,4,,,,,,,,,,,,,,,,,
+Deportivo 18 de Marzo,Lindavista,3,,,,,,,,,,,,,,,,,
+Lindavista,Instituto del Petróleo,6,,,,,,,,,,,,,,,,,
+Instituto del Petróleo,Vallejo,4,,,,,,,,,,,,,,,,,
+Vallejo,Norte 45,2,,,,,,,,,,,,,,,,,
+Norte 45,Ferrería/Arena,6,,,,,,,,,,,,,,,,,
+Ferrería/Arena,UAM Azcapotzalco,7,,,,,,,,,,,,,,,,,
+UAM Azcapotzalco,Tezozómoc,7,,,,,,,,,,,,,,,,,
+Tezozómoc,El Rosario,6,,,,,,,,,,,,,,,,,
+Barranca del Muerto,Mixcoac,1,,,,,,,,,,,,,,,,,
+Mixcoac,San Antonio,4,,,,,,,,,,,,,,,,,
+San Antonio,San Pedro de Los Pinos,5,,,,,,,,,,,,,,,,,
+San Pedro de Los Pinos,Tacubaya,2,,,,,,,,,,,,,,,,,
+Tacubaya,Constituyentes,8,,,,,,,,,,,,,,,,,
+Constituyentes,Auditorio,2,,,,,,,,,,,,,,,,,
+Auditorio,Polanco,5,,,,,,,,,,,,,,,,,
+Polanco,San Joaquín,6,,,,,,,,,,,,,,,,,
+San Joaquín,Tacuba,1,,,,,,,,,,,,,,,,,
+Tacuba,Refinería,7,,,,,,,,,,,,,,,,,
+Refinería,Camarones,6,,,,,,,,,,,,,,,,,
+Camarones,Aquiles Serdán,6,,,,,,,,,,,,,,,,,
+Aquiles Serdán,El Rosario,3,,,,,,,,,,,,,,,,,
+Constitución de 1917,UAM-I,8,,,,,,,,,,,,,,,,,
+UAM-I,Cerro de la Estrella,6,,,,,,,,,,,,,,,,,
+Cerro de la Estrella,Iztapalapa,8,,,,,,,,,,,,,,,,,
+Iztapalapa,Atlalilco,2,,,,,,,,,,,,,,,,,
+Atlalilco,Escuadrón 201,9,,,,,,,,,,,,,,,,,
+Escuadrón 201,Aculco,4,,,,,,,,,,,,,,,,,
+Aculco,Apatlaco,10,,,,,,,,,,,,,,,,,
+Apatlaco,Iztacalco,8,,,,,,,,,,,,,,,,,
+Iztacalco,Coyuya,6,,,,,,,,,,,,,,,,,
+Coyuya,Santa Anita,9,,,,,,,,,,,,,,,,,
+Santa Anita,La Viga,1,,,,,,,,,,,,,,,,,
+La Viga,Chabacano,1,,,,,,,,,,,,,,,,,
+Chabacano,Obrera,3,,,,,,,,,,,,,,,,,
+Obrera,Doctores,8,,,,,,,,,,,,,,,,,
+Doctores,Salto del Agua,4,,,,,,,,,,,,,,,,,
+Salto del Agua,San Juan de Letrán,10,,,,,,,,,,,,,,,,,
+San Juan de Letrán,Bellas Artes,6,,,,,,,,,,,,,,,,,
+Bellas Artes,Garibaldi/Lagunilla,3,,,,,,,,,,,,,,,,,
+Tacubaya,Patriotismo,2,,,,,,,,,,,,,,,,,
+Patriotismo,Chilpancingo,1,,,,,,,,,,,,,,,,,
+Chilpancingo,Centro Médico,8,,,,,,,,,,,,,,,,,
+Centro Médico,Lázaro Cárdenas,6,,,,,,,,,,,,,,,,,
+Lázaro Cárdenas,Chabacano,9,,,,,,,,,,,,,,,,,
+Chabacano,Jamaica,10,,,,,,,,,,,,,,,,,
+Jamaica,Mixhiuca,6,,,,,,,,,,,,,,,,,
+Mixhiuca,Velódromo,8,,,,,,,,,,,,,,,,,
+Velódromo,Ciudad Deportiva,7,,,,,,,,,,,,,,,,,
+Ciudad Deportiva,Puebla,9,,,,,,,,,,,,,,,,,
+Puebla,Pantitlán,2,,,,,,,,,,,,,,,,,
+Mixcoac,Insurgentes Sur,6,,,,,,,,,,,,,,,,,
+Insurgentes Sur,Hospital 20 de Noviembre,7,,,,,,,,,,,,,,,,,
+Hospital 20 de Noviembre,Zapata,9,,,,,,,,,,,,,,,,,
+Zapata,Parque de los Venados,9,,,,,,,,,,,,,,,,,
+Parque de los Venados,Eje Central,2,,,,,,,,,,,,,,,,,
+Eje Central,Ermita,7,,,,,,,,,,,,,,,,,
+Ermita,Mexicaltzingo,4,,,,,,,,,,,,,,,,,
+Mexicaltzingo,Atlalilco,7,,,,,,,,,,,,,,,,,
+Atlalilco,Culhuacán,2,,,,,,,,,,,,,,,,,
+Culhuacán,San Andres Tomatlán,3,,,,,,,,,,,,,,,,,
+San Andres Tomatlán,Lomas Estrella,5,,,,,,,,,,,,,,,,,
+Lomas Estrella,Calle 11,6,,,,,,,,,,,,,,,,,
+Calle 11,Periferico Oriente,1,,,,,,,,,,,,,,,,,
+Periferico Oriente,Tezonco,6,,,,,,,,,,,,,,,,,
+Tezonco,Olivos,8,,,,,,,,,,,,,,,,,
+Olivos,Nopalera,5,,,,,,,,,,,,,,,,,
+Nopalera,Zapotitlán,3,,,,,,,,,,,,,,,,,
+Zapotitlán,Tlaltenco,8,,,,,,,,,,,,,,,,,
+Tlaltenco,Tláhuac,2,,,,,,,,,,,,,,,,,
+La Paz,Los Reyes,5,,,,,,,,,,,,,,,,,
+Los Reyes,Santa Marta,9,,,,,,,,,,,,,,,,,
+Santa Marta,Acatitla,2,,,,,,,,,,,,,,,,,
+Acatitla,Peñón Viejo,2,,,,,,,,,,,,,,,,,
+Peñón Viejo,Guelatao,1,,,,,,,,,,,,,,,,,
+Guelatao,Tepalcates,10,,,,,,,,,,,,,,,,,
+Tepalcates,Canal de San Juan,7,,,,,,,,,,,,,,,,,
+Canal de San Juan,Agrícola Oriental,6,,,,,,,,,,,,,,,,,
+Agrícola Oriental,Pantitlán,9,,,,,,,,,,,,,,,,,
+Ciudad Azteca,Plaza Aragón,4,,,,,,,,,,,,,,,,,
+Plaza Aragón,Olímpica,7,,,,,,,,,,,,,,,,,
+Olímpica,Ecatepec,1,,,,,,,,,,,,,,,,,
+Ecatepec,Múzquiz,7,,,,,,,,,,,,,,,,,
+Múzquiz,Río de los Remedios,1,,,,,,,,,,,,,,,,,
+Río de los Remedios,Impulsora,4,,,,,,,,,,,,,,,,,
+Impulsora,Nezahualcóyotl,1,,,,,,,,,,,,,,,,,
+Nezahualcóyotl,Villa de Aragón,3,,,,,,,,,,,,,,,,,
+Villa de Aragón,Bosque de Aragón,3,,,,,,,,,,,,,,,,,
+Bosque de Aragón,Deportivo Oceanía,4,,,,,,,,,,,,,,,,,
+Deportivo Oceanía,Oceanía,5,,,,,,,,,,,,,,,,,
+Oceanía,Romero Rubio,3,,,,,,,,,,,,,,,,,
+Romero Rubio,Ricardo Flores Magón,8,,,,,,,,,,,,,,,,,
+Ricardo Flores Magón,San Lázaro,5,,,,,,,,,,,,,,,,,
+San Lázaro,Morelos,4,,,,,,,,,,,,,,,,,
+Morelos,Tepito,2,,,,,,,,,,,,,,,,,
+Tepito,Lagunilla,4,,,,,,,,,,,,,,,,,
+Lagunilla,Garibaldi/Lagunilla,7,,,,,,,,,,,,,,,,,
+Garibaldi/Lagunilla,Guerrero,8,,,,,,,,,,,,,,,,,
+Guerrero,Buenavista,5,,,,,,,,,,,,,,,,,
